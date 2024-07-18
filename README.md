@@ -28,7 +28,7 @@
 
 ## わずかな希望
 
-- 外部脳 (PC、スマホ)の活用することで僕の弱点を少し克服することができるかもしれません。
+- 外部脳 (PC、スマホ)を活用することで僕の弱点を少し克服することができるかもしれません。
 - 僕は、ごくたまに冴えています。
   - [仏教哲学の真理](https://chatgpt.com/share/42deebec-b796-4712-bba6-2924e25a17fa)
   - [Supporting Friend with Delusions](https://chatgpt.com/share/570d8129-1718-4b0e-8a14-7c7e4aeb09d6)
