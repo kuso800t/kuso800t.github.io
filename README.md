@@ -25,4 +25,6 @@
 ## 僅かな希望
 
 - 自分には異能があるらしい
+  - ![](qrcode_supporting.png)
+  - ![](qrcode_buddah-nature.png)
 - 外部脳 (PC、スマホ)を活用すれば自分の弱点を補うことができるかもしれない
