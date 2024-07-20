@@ -26,5 +26,5 @@
 
 - 自分には異能があるらしい
 
-  ![](qrcode_supporting.png)
+  <img src="qrcode_supporting.png" width="225" height="225">
 - 外部脳 (PC、スマホ)を活用すれば自分の弱点を補うことができるかもしれない
