@@ -26,6 +26,3 @@
 
 - 自分には異能があるらしい
 - 外部脳 (PC、スマホ)を活用すれば自分の弱点を補うことができるかもしれない
-
-<img src="qrcode_kuso800t.github.io.png" width="225px" height="225px"><br/>
-<img src="qrcode_supporting.png" width="225px" height="225px">
