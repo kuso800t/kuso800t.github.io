@@ -32,4 +32,4 @@
 
 ## 蛇足
 
-[仏性とは](https://chatgpt.com/share/42deebec-b796-4712-bba6-2924e25a17fa)
+- [仏性とは](https://chatgpt.com/share/42deebec-b796-4712-bba6-2924e25a17fa)
