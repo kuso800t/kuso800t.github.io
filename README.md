@@ -6,4 +6,4 @@
 - [pdfs.md](pdfs.md)
 
 <br><br>
-![](qrcode_kuso800t.github.io.png)
+![](kuso800t.github.io.png)
