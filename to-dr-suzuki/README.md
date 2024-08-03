@@ -37,4 +37,4 @@ ChatGPT に「統合失調症の症状が出ているとき瞑想は逆効果」
 
 ----
 
-[Hiroki Horichi <x19290@gmail.com>](mailto:x19290@gmail.com)
+[Hiroki Horichi &lt;x19290@gmail.com&gt;](mailto:x19290@gmail.com)
