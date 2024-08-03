@@ -27,6 +27,6 @@ ChatGPT に「統合失調症の症状が出ているとき瞑想は逆効果」
 - [マインドフルネス瞑想の提案](https://chatgpt.com/share/55cf74f5-6140-4bc9-9208-5b368f0cd736)
 - [幻視や妄想に備えて、普段からマインドフルネス瞑想をする習慣を持つこと](https://chatgpt.com/c/d9a34f44-9354-4dcc-b8c4-6a721ab213f9)
 
---
+----
 
 [Hiroki Horichi <x19290@gmail.com>](mailto:x19290@gmail.com)
