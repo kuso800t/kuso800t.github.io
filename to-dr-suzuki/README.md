@@ -30,6 +30,7 @@ ChatGPT に「統合失調症の症状が出ているとき瞑想は逆効果」
 - [呼吸とマントラの関係](https://chatgpt.com/share/7531dbcc-9db3-47b4-8594-ee931c1bd0b4)
 - [マインドフルネス瞑想の提案](https://chatgpt.com/share/55cf74f5-6140-4bc9-9208-5b368f0cd736)
 - [幻視や妄想に備えて、普段からマインドフルネス瞑想をする習慣を持つこと](https://chatgpt.com/c/d9a34f44-9354-4dcc-b8c4-6a721ab213f9)
+- [マインドフルネスと幻視](https://chatgpt.com/share/ef643090-1a58-40d1-8623-3f4dab54f612)
 
 ## 付録
 
