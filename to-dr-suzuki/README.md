@@ -33,7 +33,7 @@ ChatGPT に「統合失調症の症状が出ているとき瞑想は逆効果」
 
 ## 付録
 
-- (幻視軽減法の解説.pdf)[mantra-breathwork.pdf]
+- [幻視軽減法の解説.pdf](mantra-breathwork.pdf)
 
 ----
 
