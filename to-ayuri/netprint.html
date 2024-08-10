@@ -12,18 +12,25 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            flex-direction: column;
+            gap: 128px;
         }
 
-        img {
+        .qr {
             width: 256px;
             height: 256px;
         }
+        .deck {
+            width: 250px;
+            height: 135px;
+        }
     </style>
-    <title>Centered Square</title>
+    <title>おふだをセブンで印刷</title>
 </head>
 
 <body>
-    <img src="netprint.png">
+    <img class="qr" src="qr.png">
+    <img class="deck" src="deck.png">
 </body>
 
 </html>
