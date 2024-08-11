@@ -7,6 +7,7 @@
 ![](destruct-illusion.svg)
 
 [画像](destruct-illusion.svg)
+
 ----
 行った、行った、向こうの岸に行った。向こうの岸に完全に至った。悟りよ、そわか!
 
