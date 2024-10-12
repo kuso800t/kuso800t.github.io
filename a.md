@@ -1,5 +1,7 @@
-a[^abc]
+...in the study.^[Smith, John. *Title of the Work*. (Publisher, 2020), 15-16.]
 
 ----
 
-[^abc]: xyz
+## Bibliography
+
+- Smith, John. *Title of the Work*. Publisher, 2020.
