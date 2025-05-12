@@ -5,4 +5,4 @@
 title: TOC
 layout: default0
 ---
-- [a](/a/)
+- [a](/a)
