@@ -1,5 +1,5 @@
 ---
-title: a
+title: 国体の本義
 layout: default0
 ---
-- [b](/b)
+- [国体の本義要約](/b)
